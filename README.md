@@ -42,4 +42,5 @@
 <img src="https://raw.githubusercontent.com/xhajmerek/xhajmerek/output/dist/snake.svg" alt="Snake animation" />
 
 
+
 ###
