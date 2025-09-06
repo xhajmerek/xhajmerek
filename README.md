@@ -39,6 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xhajmerek/xhajmerek/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xhajmerek/xhajmerek/output/dist/snake.svg" alt="Snake animation" />
+
 
 ###
